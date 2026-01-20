@@ -59,9 +59,8 @@ local function setup(parameters)
     map('ь', 'm')
     map('б', ',')
     map('ю', '.')
-    map('.', '/')
 
-    map('ё', '`')
+    map('ё', '\\')
 
     map('Й', 'Q')
     map('Ц', 'W')
@@ -97,9 +96,8 @@ local function setup(parameters)
     map('Ь', 'M')
     map('Б', '<')
     map('Ю', '>')
-    map(',', '?')
 
-    map('Ё', '~')
+    map('Ё', '|')
 
     map('ЯЯ', 'ZZ')
     map('ЯЙ', 'ZQ')
